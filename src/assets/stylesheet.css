@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Signika Negative';
+    src: url('SignikaNegative-Regular.eot');
+    src: url('SignikaNegative-Regular.eot?#iefix') format('embedded-opentype'),
+        url('SignikaNegative-Regular.woff2') format('woff2'),
+        url('SignikaNegative-Regular.woff') format('woff'),
+        url('SignikaNegative-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
